@@ -68,7 +68,7 @@ VUE_APP_COSMICJS_BUCKET_SLUG=" "
 VUE_APP_COSMICJS_BUCKET_READ_KEY=" "
 ```
 
-After that, you need to create the object type and data we will use. To do that properly and easily, you can import the json file, located [inside the data folder of this repo](https://github.com/aditya-singh9/portfolio/blob/main/data/portfolio-vuejs_import.json), by accessing import/export settings inside your bucket settings page.
+After that, you need to create the object type and data we will use. To do that properly and easily, you can import the json file, located [inside the data folder of this repo](https://github.com/aditya-singh9/portfolio/blob/main/data/bucket.json), by accessing import/export settings inside your bucket settings page.
 
 Now, you can customize it with your data through CosmicJS interface!
 
