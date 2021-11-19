@@ -21,6 +21,5 @@ export default {
         .begin {
             color: map-get($colors, secondary);
         }
-        margin-left: 60px;
     }
 </style>
