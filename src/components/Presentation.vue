@@ -1,7 +1,7 @@
 <template>
   <div class="paragraph">   
     <h3>{{content.metadata.pres_title}}</h3>
-    <div class="begin">{{content.metadata.pres_first}}</div>
+    <!-- <div class="begin">{{content.metadata.pres_first}}</div> -->
     <p>{{content.metadata.pres_second}}</p>
   </div>
 </template>
@@ -21,6 +21,6 @@ export default {
         .begin {
             color: map-get($colors, secondary);
         }
-        
+        margin-left: 60px;
     }
 </style>

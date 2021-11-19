@@ -52,7 +52,11 @@
 
     img{
         max-width: 10000px;
-        height: 90px
+        height: 70px
+    }
+    img:hover{
+        transform: scale(1.2);
+         transition: transform 0.2s;
     }
 
     .altCaption{
