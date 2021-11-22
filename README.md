@@ -61,15 +61,22 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 This template have a CMS support with CosmicJS. You can easily put your content there by creating and linking your CosmicJS account.
 
-In order to customize your portfolio, you must create a CosmicJS account and a new fresh bucket on it. Once done, you must update credentials of the **.env** file.
-
-To do this, you just have to modify the variables contained in the ENV file (API token, bucket slug and read key).
+In order to customize your portfolio, you must create a CosmicJS account and a new fresh bucket on it. Once done, you must create a `.env` file and add the variables mentioned in `.env.example` file.
 
 ```env
 # CosmicJS
 VUE_APP_COSMICJS_TOKEN=" "
 VUE_APP_COSMICJS_BUCKET_SLUG=" "
 VUE_APP_COSMICJS_BUCKET_READ_KEY=" "
+```
+
+To get `VUE_APP_COSMICJS_TOKEN`, you have to send a post request on `https://api.cosmicjs.com/v2/authenticate` with email and password as your json body.
+
+```json
+{
+  "email": "your cosmic js email",
+  "password": "your cosmic js password"
+}
 ```
 
 After that, you need to create the object type and data we will use. To do that properly and easily, you can import the json file, located [inside the data folder of this repo](https://github.com/aditya-singh9/portfolio/blob/main/data/bucket.json), by accessing import/export settings inside your bucket settings page.
