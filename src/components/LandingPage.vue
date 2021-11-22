@@ -30,7 +30,7 @@ export default {
 }
 
 .parallax {
-  background-image: url("../assets/img/bg.jpg");
+  background-image: url("../assets/img/fancy-pants.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
