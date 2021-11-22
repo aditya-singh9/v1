@@ -1,1 +1,435 @@
-{"bucket":{"_id":"6195e51d699849000900f1b2","slug":"myportfoliovue-production","title":"Production","object_types":[{"title":"portfolio-contents","slug":"portfolio-contents","singular":"portfolio-content","metafields":[],"options":{"slug_field":1,"content_editor":1},"preview_link":"","priority_locale":null,"extensions":null,"order":2}],"links":[],"objects":[{"_id":"6195e6316612090e72344fc7","old_id":"5f011c5b90e9e00007825ea8","bucket":"6195e51d699849000900f1b2","slug":"experiences","title":"experiences","content":"","metafields":[{"children":null,"type":"text","title":"description","key":"description","id":"blNxFa1IQl","value":"Achievements and Professional Work"},{"children":null,"type":"text","title":"title","key":"title","id":"GRUdabV9aZ","value":"Experience"},{"children":null,"type":"json","title":"professional","key":"professional","id":"xbX44lSGNs","value":[{"year":"Since January 2021","title":"GRAMOLY","content":"Volunteer and web developer"}],"required":true},{"children":null,"type":"json","title":"academic","key":"academic","id":"VJf1avvhBA","value":[{"year":"October 2021","title":"Hacktoberfest 2021","content":"Made contibution to open-source"}],"required":true}],"type_slug":"portfolio-contents","created":"2020-07-05T00:18:35.583Z","created_at":"2020-07-05T00:18:35.583Z","modified_at":"2021-11-19T18:56:30.660Z","user_id":"619246959affac00085a5b7a","options":{"content_editor":1,"slug_field":1},"order":5,"status":"published","published_at":"2021-11-19T18:56:30.660Z","modified_by":"619246959affac00085a5b7a","publish_at":null,"unpublish_at":null},{"_id":"6195e6316612090e72344fc8","old_id":"5f01fd8350006f00083229f5","bucket":"6195e51d699849000900f1b2","slug":"description","title":"description","content":"","metafields":[{"children":null,"type":"text","title":"pres_second","key":"pres_second","id":"FHbyRFOsex","value":"Hi, I'm Aditya, a 15 year old, self-motivated Tech-Enthusiast and a Full Stack Web developer. My experience includes working in modern tech stacks like ReactJS, Redux, NodeJS, VueJS, TypeScript, MongoDB, and PostgreSQL. I love to contribute to open-source projects. In my free time, I like to watch sitcoms, listen to music and sometimes play video games."},{"children":null,"type":"text","title":"pres_first","key":"pres_first","id":"JQ9KiWWdNH","value":"“A ship is always safe at the shore, but that is not what it is built for.” ― Albert Einstein"},{"children":null,"type":"text","title":"pres_title","key":"pres_title","id":"FndcDRL3u1","value":"Who am I?"},{"children":null,"type":"text","title":"description","key":"description","id":"lYUTyEJTur","value":"“A ship is always safe at the shore, but that is not what it is built for.” ― Albert Einstein"},{"children":null,"type":"text","title":"title","key":"title","id":"uEpxdKjd0l","value":"About Me"}],"type_slug":"portfolio-contents","created":"2020-07-05T16:19:15.848Z","created_at":"2020-07-05T16:19:15.848Z","modified_at":"2021-11-19T18:51:21.836Z","user_id":"619246959affac00085a5b7a","options":{"content_editor":1,"slug_field":1},"order":4,"status":"published","published_at":"2021-11-19T18:51:21.836Z","modified_by":"619246959affac00085a5b7a","publish_at":null,"unpublish_at":null},{"_id":"6195e6316612090e72344fc9","old_id":"5f01fee250006f00083229f7","bucket":"6195e51d699849000900f1b2","slug":"user-data","title":"user-data","content":"","metafields":[{"children":null,"type":"text","title":"name","key":"name","id":"rHrR6HXVPU","value":"Aditya Singh"},{"children":null,"type":"text","title":"status","key":"status","id":"CAxUtPyTjf","value":"Full-Stack Web Developer"},{"children":null,"type":"text","title":"email","key":"email","id":"llbFpDOCjN","value":"aditya0930singh@gmail.com"},{"children":null,"type":"text","title":"phone","key":"phone","id":"3OEgQuYsGj","value":"+91 9999999999"},{"children":null,"type":"text","title":"city","key":"city","id":"ZMaj3faK8x","value":"Noida, India"},{"children":null,"type":"text","title":"lang","key":"lang","id":"VC7IvPGxOT","value":"English, Hindi"},{"children":null,"type":"text","title":"photo","key":"photo","id":"D8YRhJECO7","value":"photo.png"}],"type_slug":"portfolio-contents","created":"2020-07-05T16:25:06.834Z","created_at":"2020-07-05T16:25:06.834Z","modified_at":"2021-11-19T13:07:44.738Z","user_id":"619246959affac00085a5b7a","options":{"content_editor":1,"slug_field":1},"order":3,"status":"published","published_at":"2021-11-19T13:07:44.738Z","modified_by":"619246959affac00085a5b7a","publish_at":null,"unpublish_at":null},{"_id":"6195e6316612090e72344fca","old_id":"5f0204d6ea1bf90007ad680f","bucket":"6195e51d699849000900f1b2","slug":"links","title":"links","content":"","metafields":[{"children":null,"type":"text","title":"instagram","key":"instagram","id":"WWRL7Bk0KE","value":"https://www.instagram.com/singh_aditya91"},{"children":null,"type":"text","title":"linkedin","key":"linkedin","id":"8Qx6jEvTEe","value":"https://www.linkedin.com/in/aditya-singh9"},{"children":null,"type":"text","title":"github","key":"github","id":"iLcv21G9yu","value":"https://github.com/aditya-singh9"}],"type_slug":"portfolio-contents","created":"2020-07-05T16:50:30.087Z","created_at":"2020-07-05T16:50:30.087Z","modified_at":"2021-11-18T15:39:12.293Z","user_id":"619246959affac00085a5b7a","options":{"content_editor":1,"slug_field":1},"order":2,"status":"published","published_at":"2021-11-18T15:39:12.293Z","modified_by":"619246959affac00085a5b7a","publish_at":null,"unpublish_at":null},{"_id":"6195e6316612090e72344fcb","old_id":"5f02127c1b1b930007b5896c","bucket":"6195e51d699849000900f1b2","slug":"skills","title":"skills","content":"","metafields":[{"children":null,"type":"json","title":"items","key":"items","id":"u7Mzf13MkW","value":[{"title":"C++","img":"cplusplus.png"},{"title":"HTML","img":"html.png"},{"title":"CSS","img":"css.png"},{"title":"JavaScript","img":"javascript.png"},{"title":"Sass","img":"sass.png"},{"title":"Git/Github","img":"Octocat.png"},{"title":"ReactJS","img":"react.png"},{"title":"Redux","img":"redux.png"},{"title":"VueJS","img":"vuejs.png"},{"title":"NodeJS","img":"nodejs.png"},{"title":"TypeScript","img":"typescript.png"},{"title":"BootStrap","img":"bootstrap.svg"},{"title":"MongoDB","img":"mongodb.png"},{"title":"PostgreSQL","img":"postgresql.png"},{"title":"Vercel","img":"vercel.png"}]},{"children":null,"type":"text","title":"title","key":"title","id":"VI25O6x6U4","value":"Skills"},{"children":null,"type":"text","title":"description","key":"description","id":"fhIQxZQI8I","value":"Here is my armament"}],"type_slug":"portfolio-contents","created":"2020-07-05T17:48:44.602Z","created_at":"2020-07-05T17:48:44.602Z","modified_at":"2021-11-18T15:39:04.853Z","user_id":"619246959affac00085a5b7a","options":{"content_editor":1,"slug_field":1},"order":1,"status":"published","published_at":"2021-11-18T15:39:04.853Z","modified_by":"619246959affac00085a5b7a","publish_at":null,"unpublish_at":null},{"_id":"6195e6316612090e72344fcc","old_id":"5f023635b7e93b000741a246","bucket":"6195e51d699849000900f1b2","slug":"projects","title":"projects","content":"","metafields":[{"children":null,"type":"json","title":"items","key":"items","id":"8kcbp0o3kQ","value":[{"title":"LimURL (Url Shortener)","content":"A free URL shortener for transforming long, ugly links into nice and memorable short URLs. Use it to shorten links.<br><br>Repository Link : <a href='https://github.com/aditya-singh9/url-shotener-frontend-ts' target='_blank'>Frontend</a>, <a href='https://github.com/aditya-singh9/url-shotener-backend-ts' target='_blank'>Backend</a><br>Live Link: <a href='https://www.limurl.ml/' target='_blank'>limurl.ml</a>","link":"https://github.com/aditya-singh9/url-shotener-frontend-ts","image":"limurl.png","tag":"Website","color":"blue","date":"2021-11-05"},{"title":"CoinCrypto (CryptoCurrency API)","content":"An API which gives top 100 cryptocurrency's prices, market capital and circulating supply. It scraps data from website to get the data.<br><br>Repository Link : <a href='https://github.com/aditya-singh9/crypto-api' target='_blank'>CryptoCurrency API</a><br>Live Link: <a href='https://coincrypto-api.herokuapp.com/crypto' target='_blank'>CoinCrypto</a>","link":"https://github.com/aditya-singh9/crypto-api","image":"crypto.gif","tag":"API","color":"green","date":"2021-10-17"},{"title":"LurbTalks (Video Calling)","content":"A free video calling webapp made using Node.js and EJS. It has muting and stopping camera features too!<br><br>Repository Link : <a href='https://github.com/aditya-singh9/LurbTalks' target='_blank'>LurbTalks Repository</a><br>Live Link: <a href='https://lurbtalks.herokuapp.com/' target='_blank'>LurbTalks</a>","link":"https://github.com/aditya-singh9/video-server-mern","image":"lurbtalks.png","tag":"Website","color":"blue","date":"2021-04-12"},{"title":"Video Server","content":"A video server made using the MERN stack. It allows the user to upload and watch videos.<br><br>Repository Link : <a href='https://github.com/aditya-singh9/video-server-mern' target='_blank'>Video Server</a>","link":"https://github.com/aditya-singh9/video-server-mern","image":"videoserver.gif","tag":"Website","color":"blue","date":"2021-01-12"},{"title":"LurbChat (Chat WebApp)","content":"A chat web-app made using ReactJS and Firebase.<br><br>Live Link : <a href='https://lurbchat.web.app/' target='_blank'>LurbChat</a>","link":"https://github.com/aditya-singh9/chat-webapp-react","image":"lurbchat.png","tag":"Website","color":"blue","date":"2020-06-05"}]},{"children":null,"type":"text","title":"title","key":"title","id":"XRPz2fMBQL","value":"My projects"},{"children":null,"type":"text","title":"description","key":"description","id":"blefOL7tRP","value":"This is my story"}],"type_slug":"portfolio-contents","created":"2020-07-05T20:21:09.882Z","created_at":"2020-07-05T20:21:09.882Z","modified_at":"2021-11-19T18:35:26.831Z","user_id":"619246959affac00085a5b7a","options":{"content_editor":1,"slug_field":1},"order":0,"status":"published","published_at":"2021-11-19T18:35:26.831Z","modified_by":"619246959affac00085a5b7a","publish_at":null,"unpublish_at":null}],"media":[],"media_folders":[],"extensions":[],"thumbnail":null}}
+{
+  "bucket": {
+    "_id": "6195e51d699849000900f1b2",
+    "slug": "myportfoliovue-production",
+    "title": "Production",
+    "object_types": [
+      {
+        "title": "portfolio-contents",
+        "slug": "portfolio-contents",
+        "singular": "portfolio-content",
+        "metafields": [],
+        "options": { "slug_field": 1, "content_editor": 1 },
+        "preview_link": "",
+        "priority_locale": null,
+        "extensions": null,
+        "order": 2
+      }
+    ],
+    "links": [],
+    "objects": [
+      {
+        "_id": "6195e6316612090e72344fc7",
+        "old_id": "5f011c5b90e9e00007825ea8",
+        "bucket": "6195e51d699849000900f1b2",
+        "slug": "experiences",
+        "title": "experiences",
+        "content": "",
+        "metafields": [
+          {
+            "children": null,
+            "type": "text",
+            "title": "description",
+            "key": "description",
+            "id": "blNxFa1IQl",
+            "value": "Achievements and Professional "
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "title",
+            "key": "title",
+            "id": "GRUdabV9aZ",
+            "value": "Experience"
+          },
+          {
+            "children": null,
+            "type": "json",
+            "title": "professional",
+            "key": "professional",
+            "id": "xbX44lSGNs",
+            "value": [
+              {
+                "year": "Since January 2021",
+                "title": "GRAMOLY",
+                "content": "Volunteer and web developer"
+              }
+            ],
+            "required": true
+          },
+          {
+            "children": null,
+            "type": "json",
+            "title": "academic",
+            "key": "academic",
+            "id": "VJf1avvhBA",
+            "value": [
+              {
+                "year": "October 2021",
+                "title": "Hacktoberfest 2021",
+                "content": "Made contibution to open-source"
+              }
+            ],
+            "required": true
+          }
+        ],
+        "type_slug": "portfolio-contents",
+        "created": "2020-07-05T00:18:35.583Z",
+        "created_at": "2020-07-05T00:18:35.583Z",
+        "modified_at": "2021-11-19T18:56:30.660Z",
+        "user_id": "619246959affac00085a5b7a",
+        "options": { "content_editor": 1, "slug_field": 1 },
+        "order": 5,
+        "status": "published",
+        "published_at": "2021-11-19T18:56:30.660Z",
+        "modified_by": "619246959affac00085a5b7a",
+        "publish_at": null,
+        "unpublish_at": null
+      },
+      {
+        "_id": "6195e6316612090e72344fc8",
+        "old_id": "5f01fd8350006f00083229f5",
+        "bucket": "6195e51d699849000900f1b2",
+        "slug": "description",
+        "title": "description",
+        "content": "",
+        "metafields": [
+          {
+            "children": null,
+            "type": "text",
+            "title": "pres_second",
+            "key": "pres_second",
+            "id": "FHbyRFOsex",
+            "value": "Hi, I'm Aditya, a 15 year old, self-motivated Tech-Enthusiast and a Full Stack Web developer. My experience includes working in modern tech stacks like ReactJS, Redux, NodeJS, VueJS, TypeScript, MongoDB, and PostgreSQL. I love to contribute to open-source projects. In my free time, I like to watch sitcoms, listen to music and sometimes play video games."
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "pres_first",
+            "key": "pres_first",
+            "id": "JQ9KiWWdNH",
+            "value": "“A ship is always safe at the shore, but that is not what it is built for.” ― Albert Einstein"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "pres_title",
+            "key": "pres_title",
+            "id": "FndcDRL3u1",
+            "value": "Who am I ?"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "description",
+            "key": "description",
+            "id": "lYUTyEJTur",
+            "value": "“A ship is always safe at the shore, but that is not what it is built for.” ― Albert Einstein"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "title",
+            "key": "title",
+            "id": "uEpxdKjd0l",
+            "value": "About Me"
+          }
+        ],
+        "type_slug": "portfolio-contents",
+        "created": "2020-07-05T16:19:15.848Z",
+        "created_at": "2020-07-05T16:19:15.848Z",
+        "modified_at": "2021-11-19T18:51:21.836Z",
+        "user_id": "619246959affac00085a5b7a",
+        "options": { "content_editor": 1, "slug_field": 1 },
+        "order": 4,
+        "status": "published",
+        "published_at": "2021-11-19T18:51:21.836Z",
+        "modified_by": "619246959affac00085a5b7a",
+        "publish_at": null,
+        "unpublish_at": null
+      },
+      {
+        "_id": "6195e6316612090e72344fc9",
+        "old_id": "5f01fee250006f00083229f7",
+        "bucket": "6195e51d699849000900f1b2",
+        "slug": "user-data",
+        "title": "user-data",
+        "content": "",
+        "metafields": [
+          {
+            "children": null,
+            "type": "text",
+            "title": "name",
+            "key": "name",
+            "id": "rHrR6HXVPU",
+            "value": "Aditya Singh"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "status",
+            "key": "status",
+            "id": "CAxUtPyTjf",
+            "value": "Full-Stack Web Developer"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "email",
+            "key": "email",
+            "id": "llbFpDOCjN",
+            "value": "aditya0930singh@gmail.com"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "phone",
+            "key": "phone",
+            "id": "3OEgQuYsGj",
+            "value": "+91 9999999999"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "city",
+            "key": "city",
+            "id": "ZMaj3faK8x",
+            "value": "Noida, India"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "lang",
+            "key": "lang",
+            "id": "VC7IvPGxOT",
+            "value": "English, Hindi"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "photo",
+            "key": "photo",
+            "id": "D8YRhJECO7",
+            "value": "photo.png"
+          }
+        ],
+        "type_slug": "portfolio-contents",
+        "created": "2020-07-05T16:25:06.834Z",
+        "created_at": "2020-07-05T16:25:06.834Z",
+        "modified_at": "2021-11-19T13:07:44.738Z",
+        "user_id": "619246959affac00085a5b7a",
+        "options": { "content_editor": 1, "slug_field": 1 },
+        "order": 3,
+        "status": "published",
+        "published_at": "2021-11-19T13:07:44.738Z",
+        "modified_by": "619246959affac00085a5b7a",
+        "publish_at": null,
+        "unpublish_at": null
+      },
+      {
+        "_id": "6195e6316612090e72344fca",
+        "old_id": "5f0204d6ea1bf90007ad680f",
+        "bucket": "6195e51d699849000900f1b2",
+        "slug": "links",
+        "title": "links",
+        "content": "",
+        "metafields": [
+          {
+            "children": null,
+            "type": "text",
+            "title": "instagram",
+            "key": "instagram",
+            "id": "WWRL7Bk0KE",
+            "value": "https://www.instagram.com/singh_aditya91"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "linkedin",
+            "key": "linkedin",
+            "id": "8Qx6jEvTEe",
+            "value": "https://www.linkedin.com/in/aditya-singh9"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "github",
+            "key": "github",
+            "id": "iLcv21G9yu",
+            "value": "https://github.com/aditya-singh9"
+          }
+        ],
+        "type_slug": "portfolio-contents",
+        "created": "2020-07-05T16:50:30.087Z",
+        "created_at": "2020-07-05T16:50:30.087Z",
+        "modified_at": "2021-11-18T15:39:12.293Z",
+        "user_id": "619246959affac00085a5b7a",
+        "options": { "content_editor": 1, "slug_field": 1 },
+        "order": 2,
+        "status": "published",
+        "published_at": "2021-11-18T15:39:12.293Z",
+        "modified_by": "619246959affac00085a5b7a",
+        "publish_at": null,
+        "unpublish_at": null
+      },
+      {
+        "_id": "6195e6316612090e72344fcb",
+        "old_id": "5f02127c1b1b930007b5896c",
+        "bucket": "6195e51d699849000900f1b2",
+        "slug": "skills",
+        "title": "skills",
+        "content": "",
+        "metafields": [
+          {
+            "children": null,
+            "type": "json",
+            "title": "items",
+            "key": "items",
+            "id": "u7Mzf13MkW",
+            "value": [
+              { "title": "C++", "img": "cplusplus.png" },
+              { "title": "HTML", "img": "html.png" },
+              { "title": "CSS", "img": "css.png" },
+              { "title": "JavaScript", "img": "javascript.png" },
+              { "title": "Sass", "img": "sass.png" },
+              { "title": "Git/Github", "img": "Octocat.png" },
+              { "title": "ReactJS", "img": "react.png" },
+              { "title": "Redux", "img": "redux.png" },
+              { "title": "VueJS", "img": "vuejs.png" },
+              { "title": "NodeJS", "img": "nodejs.png" },
+              { "title": "TypeScript", "img": "typescript.png" },
+              { "title": "BootStrap", "img": "bootstrap.svg" },
+              { "title": "MongoDB", "img": "mongodb.png" },
+              { "title": "PostgreSQL", "img": "postgresql.png" },
+              { "title": "Vercel", "img": "vercel.png" }
+            ]
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "title",
+            "key": "title",
+            "id": "VI25O6x6U4",
+            "value": "Skills"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "description",
+            "key": "description",
+            "id": "fhIQxZQI8I",
+            "value": "Here is my armament"
+          }
+        ],
+        "type_slug": "portfolio-contents",
+        "created": "2020-07-05T17:48:44.602Z",
+        "created_at": "2020-07-05T17:48:44.602Z",
+        "modified_at": "2021-11-18T15:39:04.853Z",
+        "user_id": "619246959affac00085a5b7a",
+        "options": { "content_editor": 1, "slug_field": 1 },
+        "order": 1,
+        "status": "published",
+        "published_at": "2021-11-18T15:39:04.853Z",
+        "modified_by": "619246959affac00085a5b7a",
+        "publish_at": null,
+        "unpublish_at": null
+      },
+      {
+        "_id": "6195e6316612090e72344fcc",
+        "old_id": "5f023635b7e93b000741a246",
+        "bucket": "6195e51d699849000900f1b2",
+        "slug": "projects",
+        "title": "projects",
+        "content": "",
+        "metafields": [
+          {
+            "children": null,
+            "type": "json",
+            "title": "items",
+            "key": "items",
+            "id": "1z5JaoEwuW",
+            "value": [
+              {
+                "title": "LimURL (Url Shortener)",
+                "content": "A free URL shortener for transforming long, ugly links into nice and memorable short URLs. Use it to shorten links.<br><br>Repository Link : <a href='https://github.com/aditya-singh9/url-shotener-frontend-ts' target='_blank'>Frontend</a>, <a href='https://github.com/aditya-singh9/url-shotener-backend-ts' target='_blank'>Backend</a><br>Live Link: <a href='https://www.limurl.ml/' target='_blank'>limurl.ml</a>",
+                "link": "https://github.com/aditya-singh9/url-shotener-frontend-ts",
+                "image": "limurl.png",
+                "tag": "Website",
+                "color": "blue",
+                "date": "2021-11-05"
+              },
+              {
+                "title": "CoinCrypto (CryptoCurrency API)",
+                "content": "An API which gives top 100 cryptocurrency's prices, marketCapital and circulatingSupply. It scraps data from website to get the data.<br><br>Repository Link : <a href='https://github.com/aditya-singh9/crypto-api' target='_blank'>CryptoCurrency API</a><br>Live Link: <a href='https://coincrypto-api.herokuapp.com/crypto' target='_blank'>CoinCrypto</a>",
+                "link": "https://github.com/aditya-singh9/crypto-api",
+                "image": "crypto.gif",
+                "tag": "API",
+                "color": "green",
+                "date": "2021-10-17"
+              },
+              {
+                "title": "LurbTalks (Video Calling)",
+                "content": "A free video calling webapp made using node js and ejs. It has mute and stop camera feature too!<br><br>Repository Link : <a href='https://github.com/aditya-singh9/LurbTalks' target='_blank'>LurbTalks Repository</a><br>Live Link: <a href='https://lurbtalks.herokuapp.com/' target='_blank'>LurbTalks</a>",
+                "link": "https://github.com/aditya-singh9/video-server-mern",
+                "image": "lurbtalks.png",
+                "tag": "Website",
+                "color": "blue",
+                "date": "2021-04-12"
+              },
+              {
+                "title": "Video Server",
+                "content": "A video server made using MERN stack. It allows user to upload and watch videos.<br><br>Repository Link : <a href='https://github.com/aditya-singh9/video-server-mern' target='_blank'>Video Server</a>",
+                "link": "https://github.com/aditya-singh9/video-server-mern",
+                "image": "videoserver.gif",
+                "tag": "Website",
+                "color": "blue",
+                "date": "2021-01-12"
+              },
+              {
+                "title": "LurbChat (Chat WebApp)",
+                "content": "A chat webapp made using reactJS and firebase.<br><br>Live Link : <a href='https://lurbchat.web.app/' target='_blank'>LurbChat</a>",
+                "link": "https://github.com/aditya-singh9/chat-webapp-react",
+                "image": "lurbchat.png",
+                "tag": "Website",
+                "color": "blue",
+                "date": "2020-06-05"
+              }
+            ]
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "title",
+            "key": "title",
+            "id": "KO4eqI6v4O",
+            "value": "My projects"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "description",
+            "key": "description",
+            "id": "QZQa4Mloty",
+            "value": "This is my story"
+          }
+        ],
+        "type_slug": "portfolio-contents",
+        "created": "2020-07-05T20:21:09.882Z",
+        "created_at": "2020-07-05T20:21:09.882Z",
+        "modified_at": "2021-11-20T04:59:34.779Z",
+        "user_id": "619246959affac00085a5b7a",
+        "options": { "content_editor": 1, "slug_field": 1 },
+        "order": 0,
+        "status": "published",
+        "published_at": "2021-11-20T04:59:34.779Z",
+        "modified_by": "619246959affac00085a5b7a",
+        "publish_at": null,
+        "unpublish_at": null
+      }
+    ],
+    "media": [],
+    "media_folders": [],
+    "extensions": [],
+    "thumbnail": null
+  }
+}
