@@ -2,7 +2,7 @@
 
 > Portfolio template using VueJs framework, CosmicJS API and Bootstrap
 
-<p align="center"><strong> Live demo with my personnal data <a href="https://www.adityasingh.xyz/">here</a> ! </strong></p>
+<p align="center"><strong> Live demo with my personal data <a href="https://www.adityasingh.xyz/">here</a>! </strong></p>
 
 <img align="center" src="doc/demo.gif" alt="portfolio-vuejs preview"></img>
 
@@ -21,7 +21,7 @@
 
 ## Features
 
-- Builded with VueJs framework ✨
+- Built with VueJs framework ✨
 - One page layout ✨
 - Material design ✨
 - Bootstrap 4.5 & SCSS ✨
@@ -35,19 +35,19 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilation and hot-reload for development
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilation and minification for production
 
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Linting files
 
 ```
 npm run lint
