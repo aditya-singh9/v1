@@ -16,6 +16,11 @@
           <font-awesome-icon class="icon" :icon="['fab', 'github-square']" />
         </a>
       </li>
+      <li>
+        <a :href="links.metadata.twitter" target="_blank">
+          <font-awesome-icon class="icon" :icon="['fab', 'twitter-square']" />
+        </a>
+      </li>
     </ul>
   </div>
 </template>
