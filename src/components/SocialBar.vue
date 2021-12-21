@@ -1,11 +1,11 @@
 <template>
   <div class="social-wrap">
     <ul>
-      <!-- <li>
-        <a :href="links.metadata.instagram" target="_blank">
+      <li>
+        <a :href="links.metadata.twitter" target="_blank">
           <font-awesome-icon class="icon" :icon="['fab', 'instagram-square']" />
         </a>
-      </li> -->
+      </li>
       <li>
         <a :href="links.metadata.linkedin" target="_blank">
           <font-awesome-icon class="icon" :icon="['fab', 'linkedin']" />
